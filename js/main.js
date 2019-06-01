@@ -5,7 +5,7 @@
             targetDate: {
                 'day': 2,
                 'month': 6,
-                'year': 2019,
+                'year': 2020,
                 'hour': 16,
                 'min': 0,
                 'sec': 0
